@@ -5,8 +5,14 @@
 </p>
 
 <p align='center'>
-Preparing tha Vessels 2B <b>MystiQal Wizards</b><sup><em>Movin' Wights</em></sup><br>
+<a href="https://github.com/BBuchholz/worthy-mountain">Worthy Mountain</a>'s Tag Line Was: Preparing tha Vessels 2B <b>MystiQal Wizards</b><sup><em>Movin' Wights</em></sup><br>
 </p>
+
+<p align='center'>
+For this Projeckt, tha Directive Came Through as "Carve Steps From Tha Worthy Mountain To Build Tha MaGiK WeL" and here we are
+<br>
+</p>
+
 
 <br>
 
