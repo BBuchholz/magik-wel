@@ -101,8 +101,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'safari-pinned-tab.svg'],
       manifest: {
-        name: 'Worthy Mountain',
-        short_name: 'WM',
+        name: 'MaGiK WeL',
+        short_name: 'MW',
         theme_color: '#ffffff',
         icons: [
           {

@@ -11,7 +11,7 @@ Preparing tha Vessels 2B <b>MystiQal Wizards</b><sup><em>Movin' Wights</em></sup
 <br>
 
 <p align='center'>
-<a href="https://worthy-mountain.netlify.app/">Live Demo</a>
+<a href="https://magik-wel.netlify.app/">Live Demo</a>
 </p>
 
 <br>
