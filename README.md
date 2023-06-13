@@ -1,7 +1,7 @@
 <h1 align='center'>🜾</h1>
 
 <p align='center'>
-  Worthy Mountain - Base Vite Template for Coventry Grove sites
+  MaGiK WeL - Base Vite Template for Coventry Grove sites incorporating new SIS (Steps In Stone) Builder Structure
 </p>
 
 <p align='center'>
@@ -19,19 +19,19 @@ Preparing tha Vessels 2B <b>MystiQal Wizards</b><sup><em>Movin' Wights</em></sup
 
 ## Try it now!
 
-> Worthy Mountain requires Node >=14.18
+> MaGiK WeL requires Node >=14.18
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/BBuchholz/worthy-mountain/generate).
+[Create a repo from this template on GitHub](https://github.com/BBuchholz/magik-wel/generate).
 
 ### Clone to local
 
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit BBuchholz/worthy-mountain my-worthy-mountain-app
-cd my-worthy-mountain-app
+npx degit BBuchholz/magik-wel my-magik-wel-app
+cd my-magik-wel-app
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```
 
